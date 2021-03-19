@@ -40,9 +40,10 @@ h1 {
     font-family: 'Calligraffitti', cursive;
 }
 
-h3 {
+h5 {
     text-align: right;
-    font-family: 'Calligraffitti', cursive;
+    font-family: fantasy, cursive;
+    font-weight: 200;
     font-size: x-large;
 
 }
